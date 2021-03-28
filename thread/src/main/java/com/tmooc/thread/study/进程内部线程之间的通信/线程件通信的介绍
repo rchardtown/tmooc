@@ -1,0 +1,4 @@
+线程间通信从类别上区分未不同进程间的线程之间的通信和 单一进程内部不同线程之间的通信
+
+线程间通信从实现方式上可分为原始的wait notify notifyAll 实现的通信  和  基于condition 的await signal signalAll的通信
+
