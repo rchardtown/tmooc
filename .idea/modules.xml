@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lambda/demo.iml" filepath="$PROJECT_DIR$/lambda/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method-reference/demo (1) (com.tmooc.method-reference).iml" filepath="$PROJECT_DIR$/method-reference/demo (1) (com.tmooc.method-reference).iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/demo (1) (com.tmooc.thread).iml" filepath="$PROJECT_DIR$/thread/demo (1) (com.tmooc.thread).iml" />
+      <module fileurl="file://$PROJECT_DIR$/instant/instant.iml" filepath="$PROJECT_DIR$/instant/instant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-default-andstatic-method/interface-default-andstatic-method.iml" filepath="$PROJECT_DIR$/interface-default-andstatic-method/interface-default-andstatic-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream/stream.iml" filepath="$PROJECT_DIR$/stream/stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/tmooc.iml" filepath="$PROJECT_DIR$/tmooc.iml" />
     </modules>
   </component>

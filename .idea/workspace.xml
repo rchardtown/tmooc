@@ -32,6 +32,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/thread/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -117,10 +118,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="104" key="FileChooserDialogImpl" timestamp="1617070728089">
+    <state x="417" y="187" key="#Notifications" timestamp="1617071018161">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617070728089" />
+    <state x="417" y="187" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1617071018161" />
+    <state x="462" y="104" key="FileChooserDialogImpl" timestamp="1617070893116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617070893116" />
     <state x="57" y="24" key="new project wizard" timestamp="1617070783096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
