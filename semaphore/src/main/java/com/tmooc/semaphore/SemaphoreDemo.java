@@ -34,7 +34,7 @@ public class SemaphoreDemo {
     }
 
     public static void main(String[] args) {
-        /**
+        /**dfd
          * 【程序入口】
          * 业务背景：
          *      每次只允许5个用户访问某个接口，多出来的人阻塞，直到前面5个人访问结束后才能访问
@@ -45,6 +45,6 @@ public class SemaphoreDemo {
         for (int i = 0; i < 10 ; i++) {
             new Thread(()->semaphoreDemo.doServer()).start();
         }
-
+        System.out.println();
     }
 }
