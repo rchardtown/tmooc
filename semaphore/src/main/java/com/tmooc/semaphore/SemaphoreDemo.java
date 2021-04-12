@@ -45,6 +45,6 @@ public class SemaphoreDemo {
         for (int i = 0; i < 10 ; i++) {
             new Thread(()->semaphoreDemo.doServer()).start();
         }
-        System.out.println();
+        System.out.println("br1");
     }
 }
