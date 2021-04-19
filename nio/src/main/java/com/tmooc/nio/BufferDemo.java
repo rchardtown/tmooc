@@ -22,6 +22,7 @@ public class BufferDemo {
         doPrint(jvmBuffer.position(), jvmBuffer.limit(), jvmBuffer.capacity());
         //转换读写模式
         jvmBuffer.flip();
+
         //读数据
         char b = (char)jvmBuffer.get();
         System.out.println(b);
