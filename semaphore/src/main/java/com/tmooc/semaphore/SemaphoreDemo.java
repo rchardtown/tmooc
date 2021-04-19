@@ -45,6 +45,7 @@ public class SemaphoreDemo {
         for (int i = 0; i < 10 ; i++) {
             new Thread(()->semaphoreDemo.doServer()).start();
         }
+
         System.out.println("我是来自分支2");
     }
 }
