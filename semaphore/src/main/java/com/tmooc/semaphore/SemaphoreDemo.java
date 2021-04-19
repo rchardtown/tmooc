@@ -46,6 +46,9 @@ public class SemaphoreDemo {
             new Thread(()->semaphoreDemo.doServer()).start();
         }
 
+
+
+
         System.out.println("我是来自分支2");
     }
 }
